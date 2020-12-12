@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-
 [![yutarou12's github stats](https://github-readme-stats.vercel.app/api?username=yutarou12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ## I'm learning
 * JavaScript
