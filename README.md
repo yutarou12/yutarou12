@@ -2,7 +2,7 @@
 
 [![yutarou12's github stats](https://github-readme-stats.vercel.app/api?username=yutarou12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yutarou12's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutarou12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![yutarou12's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutarou12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm learning
 * JavaScript
