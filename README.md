@@ -13,7 +13,7 @@ ___
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact&" />
+    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact&" />
   </a>
 </div>
 
@@ -26,6 +26,19 @@ ___
 ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### My Works
+
+<a href="https://github.com/yutarou12/Connect-Lineworks-discord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=Connect-Lineworks-discord&theme=radical" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/yutarou12/UnforgivableRightImage-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=UnforgivableRightImage-Bot&theme=radical" />
+</a>
+
+
+&nbsp;
+順次更新
 <!--
 **yutarou12/yutarou12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
