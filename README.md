@@ -40,8 +40,8 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=UnforgivableRightImage-Bot&theme=radical" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/yutarou12/Artifacter-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=Artifacter-Bot&theme=radical" />
+<a href="https://github.com/yutarou12/pdf-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=pdf-manager&theme=radical" />
 </a>
 
 &nbsp;
