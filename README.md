@@ -7,7 +7,7 @@
 
 ___
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api?username=yutarou12&show_icons=true&theme=radical" />
   </a>
