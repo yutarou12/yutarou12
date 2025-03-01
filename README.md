@@ -29,7 +29,7 @@ ___
 ### My Works
 
 <a href="https://github.com/yutarou12/Connect-Lineworks-discord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=Connect-Lineworks-discord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=Connect-Lineworks-discord&theme=radical" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/yutarou12/UnforgivableRightImage-Bot">
