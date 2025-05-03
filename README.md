@@ -43,6 +43,10 @@ ___
 <a href="https://github.com/yutarou12/pdf-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=pdf-manager&theme=radical" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/yutarou12/bluetooth-in-room-noticer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=bluetooth-in-room-notice&theme=radical" />
+</a>
 
 &nbsp;
 順次更新
