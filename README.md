@@ -39,7 +39,7 @@ ___
 <a href="https://github.com/yutarou12/UnforgivableRightImage-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=UnforgivableRightImage-Bot&theme=radical" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/yutarou12/pdf-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutarou12&repo=pdf-manager&theme=radical" />
 </a>
