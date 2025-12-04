@@ -13,7 +13,7 @@ ___
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170 src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact&" />
+    <img height=170 src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact" />
   </a>
 </div>
 
