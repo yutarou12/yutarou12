@@ -9,11 +9,11 @@ ___
 
 <div align="center">
   <a href="https://github-readme-stats-yutarou12s-projects.vercel.app">
-    <img height=170 src="https://github-readme-stats-yutarou12s-projects.vercel.app/api?username=yutarou12&show_icons=true&theme=radical" />
+    <img height=170 src="https://github-readme-stats-brown-kappa-38.vercel.app/api?username=yutarou12&show_icons=true&theme=radical" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github-readme-stats-yutarou12s-projects.vercel.app">
-    <img height=170 src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact" />
+    <img height=170 src="https://github-readme-stats-brown-kappa-38.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact" />
   </a>
 </div>
 
@@ -33,19 +33,19 @@ ___
 ### My Works
 
 <a href="https://github.com/yutarou12/Connect-Lineworks-discord">
-  <img align="center" src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/pin/?username=yutarou12&repo=Connect-Lineworks-discord&theme=radical" />
+  <img align="center" src="https://github-readme-stats-brown-kappa-38.vercel.app/api/pin/?username=yutarou12&repo=Connect-Lineworks-discord&theme=radical" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/yutarou12/UnforgivableRightImage-Bot">
-  <img align="center" src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/pin/?username=yutarou12&repo=UnforgivableRightImage-Bot&theme=radical" />
+  <img align="center" src="https://github-readme-stats-brown-kappa-38.vercel.app/api/pin/?username=yutarou12&repo=UnforgivableRightImage-Bot&theme=radical" />
 </a>
 
 <a href="https://github.com/yutarou12/pdf-manager">
-  <img align="center" src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/pin/?username=yutarou12&repo=pdf-manager&theme=radical" />
+  <img align="center" src="https://github-readme-stats-brown-kappa-38.vercel.app/api/pin/?username=yutarou12&repo=pdf-manager&theme=radical" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/yutarou12/bluetooth-in-room-notice">
-  <img align="center" src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/pin/?username=yutarou12&repo=bluetooth-in-room-notice&theme=radical" />
+  <img align="center" src="https://github-readme-stats-brown-kappa-38.vercel.app/api/pin/?username=yutarou12&repo=bluetooth-in-room-notice&theme=radical" />
 </a>
 
 &nbsp;
