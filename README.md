@@ -8,11 +8,11 @@
 ___
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats-yutarou12s-projects.vercel.app">
     <img height=170 src="https://github-readme-stats-yutarou12s-projects.vercel.app/api?username=yutarou12&show_icons=true&theme=radical" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats-yutarou12s-projects.vercel.app">
     <img height=170 src="https://github-readme-stats-yutarou12s-projects.vercel.app/api/top-langs/?username=yutarou12&theme=radical&layout=compact" />
   </a>
 </div>
