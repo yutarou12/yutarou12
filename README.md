@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
  <a href="https://git.io/streak-stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yutarou12&currStreakNum=2FD3EB&fire=pink&sideLabels=EB1991FF&background=141321&theme=dark" />
+   <img src="https://github-readme-streak-stats-ten-mocha.vercel.app/?user=yutarou12&currStreakNum=2FD3EB&fire=pink&sideLabels=EB1991FF&background=141321&theme=dark" />
  </a>
 </div>
 
